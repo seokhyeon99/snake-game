@@ -1,5 +1,10 @@
 # snake-game
 
+       Snake game consists of three levels.  
+       you get scores if it eat food while moving using the arrow keys, but if it step on the bomb, you lose points.  
+       The higher the score, the faster the speed.  
+       The game is over if the snake is less than 3 or hits the edge of the map or its body.
+
 ## draw map, game over, title and stage
   * code for setting start screen according to stage per level and gameover screen  
      * start image  
